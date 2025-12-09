@@ -1,4 +1,5 @@
-![Master's Student in Cybersecurity & Network Administration | Future SOC Analyst | Building strong networking skills as advised by my professor](https://media.licdn.com/dms/image/v2/D4E03AQHnNEu49L2GnA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731967318632?e=1766620800&v=beta&t=At_RCPHrWGfnmJtm2EjeA5pBX_kvvaFekeP0mzpio60)
+![Master's Student in Cybersecurity & Network Administration | Future SOC Analyst | Building strong networking skills as advised by my professor](https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/596536498_1633188710981878_4518546125106997477_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=d4TjQVqJy8oQ7kNvwE2L2cI&_nc_oc=AdlJzzB5chYhYYnvPxrDDBkbPw92XvyyoYWVmFAkvFHPZ2pnCWJ8aNrTupBO-csiSqub534-eleXTjb2mpz1si9K&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=fMpnWE9k7FHFzrxiUWbang&oh=00_Afk7nds-tbkx_rG-wWQPIldwIpbXZoe2ZtJUbd6S6nsgyQ&oe=693E7C4A)
+
 
 # 👋 Hi, I'm Azizul Rahaman  
 
@@ -103,12 +104,6 @@
 
 ## 💡 Quote I Live By
 > **"Every expert was once a beginner. Keep learning, keep hacking, keep growing."**
-
-
-
-
-- 🔭 I’m currently working on this page. 
-
 
 
 
