@@ -23,31 +23,43 @@
 
 <p align="left">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<!-- Languages & Scripting -->
+<img src="https://img.shields.io/badge/Python_Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<!-- Security Tools -->
+<!-- Cybersecurity Tools -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-2C8EBB?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-4C4C4C?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit_Framework-4C4C4C?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Hydra-800000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hashcat-9B59B6?style=for-the-badge&logo=hashnode&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nessus-1A1A80?style=for-the-badge&logo=tenable&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenVAS-3FA037?style=for-the-badge" />
 
-<!-- Platforms -->
+<!-- Platforms & Environments -->
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Active_Directory-0C63BD?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 
+<!-- Networking & System Admin -->
+<img src="https://img.shields.io/badge/TCP/IP_Configuration-125C8F?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Setup-1ABC9C?style=for-the-badge" />
+
+<!-- IT Support / Other Skills -->
+<img src="https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Risk_Awareness-9B59B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Protection-CC0000?style=for-the-badge" />
+
 <!-- Interests -->
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/Threat_Analysis-8E44AD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Network_Defense-1ABC9C?style=for-the-badge" />
