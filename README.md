@@ -1,49 +1,96 @@
+<!-- Banner (Optional — Replace link if you want your own image) -->
+<img src="https://i.imgur.com/BCZBfVj.png" width="100%" />
+
 # 👋 Hi, I'm Azizul Rahaman  
 
 🎓 Master's Student in **Cybersecurity & Network Administration** at Touro University, New York  
-🔐 Passionate about **Cybersecurity, Ethical Hacking, OSINT, Network Security, and Cloud Security**  
-💻 Actively improving my skills through **Hack The Box, TryHackMe, Kali Linux labs, and academic research projects**  
-📘 My professor advised me to **start with Networking first** to get an internship, because security roles are more competitive for international students — so I’m actively building strong networking fundamentals.
+🔐 Building a strong foundation in **Networking** as advised by my professor to prepare for competitive internship opportunities  
+🛡 Passionate about **Cybersecurity, Ethical Hacking, OSINT, Network Security, and Cloud Security**  
+💻 Improving my skills through **Hack The Box, TryHackMe, Kali Linux labs, AWS, and real-world security research**
 
 ---
 
-### 🔥 About Me
-- 🌱 Currently learning **Networking, Ethical Hacking, Penetration Testing, Active Directory attacks, Web Application Security, and Cloud Security**
-- 📚 Working on hands-on projects like **GoldenEye HTB, Sau HTB, SQL Injection labs, and AWS–Kali Linux environments**
-- 🎯 My goal: Become a **Cybersecurity Analyst / SOC Analyst / Penetration Tester**
-- 🌍 International student passionate about helping others learn cybersecurity  
-- 🤝 Open to collaborating on **security research, red-team/blue-team labs, and OSINT investigations**
+## 🔥 About Me
+- 🌱 Currently learning **Networking, Ethical Hacking, Penetration Testing, Active Directory attacks, Web App Security, and Cloud Security**
+- 🔭 Hands-on projects: **HTB (Driver, Sauna, Sau, GoldenEye, Lame), SQL Injection labs, AWS + Kali environment**
+- 🎯 Career Goal: Become a **Cybersecurity Analyst / SOC Analyst / Penetration Tester**
+- 🌍 International student passionate about helping others in cybersecurity  
+- 🤝 Looking to collaborate on **security research, OSINT investigations, and red/blue team labs**
 
 ---
 
-### 🛠️ Skills & Tools
-**Languages:** Python, Bash, SQL  
-**Security Tools:** Nmap, Burp Suite, Metasploit, Hydra, Hashcat, Wireshark, Nessus, OpenVAS  
-**Platforms:** Kali Linux, Windows Server, Active Directory, AWS, VirtualBox, VMware  
-**Interests:** Networking, OSINT, Threat Analysis, Network Defense, Incident Response  
+## 🛠️ Skills & Tools
+
+<p align="left">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<!-- Security Tools -->
+<img src="https://img.shields.io/badge/Nmap-2C8EBB?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-4C4C4C?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-800000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashcat-9B59B6?style=for-the-badge&logo=hashnode&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nessus-1A1A80?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenVAS-3FA037?style=for-the-badge" />
+
+<!-- Platforms -->
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-0C63BD?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+
+<!-- Interests -->
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Threat_Analysis-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network_Defense-1ABC9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Incident_Response-CC0000?style=for-the-badge" />
+
+</p>
 
 ---
 
-### 🚀 Current Projects
-- 🔍 **HTB machines** (Driver, GoldenEye, Sauna, Sau, Lame)  
-- 🛡️ Security Vulnerability Case Study (Path Traversal)  
-- ☁️ AWS + Kali Linux attack environment  
-- 🧪 SQL Injection (WebGoat Intro, Advanced, Mitigation)
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=azizulrahaman&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azizulrahaman&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: **azizulrahaman@gmail.com**  
-- 💼 LinkedIn: *coming soon — building a strong professional profile*
+## 🔥 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulrahaman&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### ⭐ Fun Facts
-- I love breaking things *ethically* to understand how to secure them  
-- I enjoy helping students apply to study in the USA  
-- Cybersecurity is not just my major — it’s my passion  
+## 📬 Connect With Me
+<p align="left">
+<a href="mailto:azizulrahaman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-### 💡 Quote I Follow
-> *"Every expert was once a beginner. Keep learning, keep hacking, keep growing."*
+## 🚀 Featured Projects
+- 🔐 **HTB Walkthroughs** — Driver, Sauna, Sau, Lame, GoldenEye  
+- 🛡️ **Security Vulnerability Case Study** — Path Traversal attack  
+- ☁️ **AWS + Kali Linux Attack Lab**  
+- 🧪 **SQL Injection Research** — WebGoat Intro, Advanced, Mitigation  
+
+---
+
+## 💡 Quote I Live By
+> **"Every expert was once a beginner. Keep learning, keep hacking, keep growing."**
+
+
