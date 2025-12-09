@@ -1,3 +1,4 @@
+(https://media.licdn.com/dms/image/v2/D4E03AQHnNEu49L2GnA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731967318632?e=1766620800&v=beta&t=At_RCPHrWGfnmJtm2EjeA5pBX_kvvaFekeP0mzpio60mages/banner.png)
 <!-- Banner (Optional — Replace link if you want your own image) -->
 <img src="https://i.imgur.com/BCZBfVj.png" width="100%" />
 
