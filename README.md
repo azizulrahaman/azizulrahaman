@@ -79,7 +79,6 @@
 ---
 
 ## 🔥 Top Languages
-## 🔥 Top Languages
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulrahaman&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
@@ -88,6 +87,9 @@
 
 ## 📬 Connect With Me
 <p align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/azizulrahaman-cyber-azizulsecured)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/YOURUSERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-green?logo=hackthebox)](https://app.hackthebox.com/profile/YOURID)
 <a href="mailto:azizulrahaman@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
