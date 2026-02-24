@@ -86,10 +86,10 @@
 ---
 
 ## 📬 Connect With Me
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/azizulrahaman-cyber-azizulsecured)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/azizulrahaman-cyber-azizulsecured)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/YOURUSERNAME)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-green?logo=hackthebox)](https://app.hackthebox.com/profile/YOURID)
+<p align="left">
 <a href="mailto:azizulrahaman@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
