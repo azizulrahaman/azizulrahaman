@@ -57,17 +57,22 @@
 <img src="https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Setup-1ABC9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firewall_Config-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VLAN_Design-1ABC9C?style=for-the-badge" />
 
 <!-- IT Support / Other Skills -->
 <img src="https://img.shields.io/badge/Microsoft_Office-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 <img src="https://img.shields.io/badge/Risk_Awareness-9B59B6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Protection-CC0000?style=for-the-badge" />
 
-<!-- Interests -->
+<!-- SOC & Threat Skills -->
 <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/Threat_Analysis-8E44AD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Network_Defense-1ABC9C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Incident_Response-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CVE_Exploitation-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Privilege_Escalation-800000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network_Defense-1ABC9C?style=for-the-badge" />
 
 </p>
 
