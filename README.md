@@ -1,4 +1,6 @@
-![Master's Student in Cybersecurity & Network Administration | Future SOC Analyst | Building strong networking skills as advised by my professor](https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/596536498_1633188710981878_4518546125106997477_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=d4TjQVqJy8oQ7kNvwE2L2cI&_nc_oc=AdlJzzB5chYhYYnvPxrDDBkbPw92XvyyoYWVmFAkvFHPZ2pnCWJ8aNrTupBO-csiSqub534-eleXTjb2mpz1si9K&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=fMpnWE9k7FHFzrxiUWbang&oh=00_Afk7nds-tbkx_rG-wWQPIldwIpbXZoe2ZtJUbd6S6nsgyQ&oe=693E7C4A)
+<p align="center">
+  <img src="1.png" width="100%" />
+</p>
 
 
 # 👋 Hi, I'm Azizul Rahaman
