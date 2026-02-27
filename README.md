@@ -1,12 +1,31 @@
 ![Master's Student in Cybersecurity & Network Administration | Future SOC Analyst | Building strong networking skills as advised by my professor](https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/596536498_1633188710981878_4518546125106997477_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=d4TjQVqJy8oQ7kNvwE2L2cI&_nc_oc=AdlJzzB5chYhYYnvPxrDDBkbPw92XvyyoYWVmFAkvFHPZ2pnCWJ8aNrTupBO-csiSqub534-eleXTjb2mpz1si9K&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=fMpnWE9k7FHFzrxiUWbang&oh=00_Afk7nds-tbkx_rG-wWQPIldwIpbXZoe2ZtJUbd6S6nsgyQ&oe=693E7C4A)
 
 
-# 👋 Hi, I'm Azizul Rahaman  
+# 👋 Hi, I'm Azizul Rahaman
 
-🎓 Master's Student in **Cybersecurity & Network Administration** at Touro University, New York  
-🔐 Building a strong foundation in **Networking** as advised by my professor to prepare for competitive internship opportunities  
-🛡 Passionate about **Cybersecurity, Ethical Hacking, OSINT, Network Security, and Cloud Security**  
-💻 Improving my skills through **Hack The Box, TryHackMe, Kali Linux labs, AWS, and real-world security research**
+🎓 MS Cybersecurity & Network Administration | Touro University, New York
+🎯 Future SOC Analyst / Security Engineer | OPT Candidate
+🌍 International student from Bangladesh, based in New York
+
+🔒 Focus Areas:
+- Active Directory Security & Privilege Escalation
+- Network Security & Traffic Analysis
+- Ethical Hacking & Vulnerability Assessment
+- Cloud & AWS Security Fundamentals
+- OSINT & Threat Intelligence
+
+🔧 Hands-on Experience:
+- Hack The Box (Driver, Sauna, Sau, GoldenEye, Lame)
+- Metasploitable2 — Full pentest report (11 vulns, 5 Critical)
+- Kali Linux, Nmap, Metasploit, Burp Suite
+- AWS Security Labs
+- Packet Tracer & Network Design
+
+📝 Currently strengthening:
+- SIEM concepts
+- Log analysis
+- Blue Team fundamentals
+- Detection & Response techniques
 
 ---
 
