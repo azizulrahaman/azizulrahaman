@@ -39,6 +39,9 @@
 <img src="https://img.shields.io/badge/Hashcat-9B59B6?style=for-the-badge&logo=hashnode&logoColor=white" />
 <img src="https://img.shields.io/badge/Nessus-1A1A80?style=for-the-badge&logo=tenable&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenVAS-3FA037?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge" />
 
 <!-- Platforms & Environments -->
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -47,6 +50,7 @@
 <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
 <!-- Networking & System Admin -->
 <img src="https://img.shields.io/badge/TCP/IP_Configuration-125C8F?style=for-the-badge&logo=cisco&logoColor=white" />
