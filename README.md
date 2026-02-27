@@ -6,8 +6,8 @@
 # 👋 Hi, I'm Azizul Rahaman
 
 🎓 MS Cybersecurity & Network Administration | Touro University, New York
-🎯 Future SOC Analyst / Security Engineer | OPT Candidate
-🌍 International student from Bangladesh, based in New York
+🎯 SOC Analyst Track | Active Directory | Network Defense
+🌍 OPT Candidate | Based in New York
 
 🔒 Focus Areas:
 - Active Directory Security & Privilege Escalation
